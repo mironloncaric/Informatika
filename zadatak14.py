@@ -14,4 +14,5 @@ while True :
         minimum = guess
     if user[0].lower() == 'p' :
         print("Pogodak!")
+        print(n)
         break
