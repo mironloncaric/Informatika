@@ -2,6 +2,10 @@
 # korjena s preciznošću od 10**(-x) decimala pomoću binarne pretrage, ali na kraju sam odustao. Možda napravim to u budučnosti.
 import cmath
 
+# TODO: napiši funkciju s parametrima x i num koja računa korjen broja num s preciznošću od 10**(-x)
+def SquareRoot(x, num) :
+    pass
+
 def KvadratnaJednadzba(a, b, c) :
 
     d = (b**2) - (4*a*c)

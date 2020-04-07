@@ -6,5 +6,5 @@ def definition(num) :
 # unosimo broj i pohranjujemo ga u varjablu num
 num = int(input("--> "))
 
-# zovemo funkciju definition() i dajemo joj parametar num
+# zovemo funkciju definition() i unosimo broj num kao parametar 
 definition(num)

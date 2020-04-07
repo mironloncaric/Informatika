@@ -19,5 +19,5 @@ def Function(str1, str2) :
                 
 # pomoću funkcije split() razdvajamo unos u dvije varjable (str1, str2)
 str1, str2 = input('--> ').split()
-# zovemo funkciju Function() i dajemo joj parametre str1 i str2
+# zovemo funkciju Function() unosimo str1 i str2 kao parametre
 Function(str1, str2)
